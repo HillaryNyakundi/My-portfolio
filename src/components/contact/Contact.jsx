@@ -7,6 +7,14 @@ import { useRef } from 'react';
 import emailjs from 'emailjs-com'
 
 const contact = () => {
+  const form = useRef();
+  
+  const sendEmail = (e) => {
+    e.preventDefault();
+    emailjs.sendForm('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', form.current, 'YOUR_PUBLIC_KEY')
+    e.target.reset()
+
+  };
 
   return (
     <section id='contact'>
@@ -37,7 +45,7 @@ const contact = () => {
           </article>
         </div>
         {/* END OF CONTACT OPTION */}
-        <form action="https://formsubmit.co/poetavid@gmail.com" method ="post">
+        <form  ref={form} onSubmit={sendEmail} method ="post">
           <input type="text" name='name' placeholder='Your Full Name' required/>
           <input type="email" name='email' placeholder ='Your Email' required/>
           <textarea name="message" rows="7" placeholder='Your Message' required></textarea>
