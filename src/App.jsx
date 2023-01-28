@@ -8,6 +8,7 @@ import Portfolio from './components/portfolio/Portfolio'
 import Testimonials from './components/testimonials/Testimonials'
 import Contact from './components/contact/Contact'
 import Footer from './components/footer/Footer'
+import Whatsappicon from './components/whatsapp/Whatsappicon'
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
       <Header/>
       <Nav/>
       <About/>
+      <Whatsappicon />
       <Experience/>
       <Services/>
       <Portfolio/>
