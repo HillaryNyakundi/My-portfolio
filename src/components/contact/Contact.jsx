@@ -26,7 +26,7 @@ const contact = () => {
           <article className=" contact__option">
             <FaTwitter className='contact__option-icon'/>
             <h4>Twitter</h4>
-            <h5>@Wikend_dev</h5>
+            <h5>@bcryptidd</h5>
             <a href="https://twitter.com/wikend_dev" target="_blank">Send a message</a>
           </article>
           
@@ -40,7 +40,7 @@ const contact = () => {
           <article className=" contact__option">
             <BsWhatsapp className='contact__option-icon'/>
             <h4>WhatsApp</h4>
-            <h5>+254741467228</h5>
+            <h5></h5>
             <a href="https://wa.me/+254741467228" target="_blank">Send a message</a>
           </article>
         </div>
