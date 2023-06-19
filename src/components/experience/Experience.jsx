@@ -24,7 +24,7 @@ const experience = () => {
               <BsPatchCheckFill className='experience__details-icons'/>
               <div>
               <h4>CSS</h4>
-              <small className='text-light'>Experienced</small>
+              <small className='text-light'>Intermidiate</small>
               </div>
             </article>
             
@@ -39,7 +39,7 @@ const experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icons'/>
               <div>
-              <h4>Bootstrap</h4>
+              <h4>Next.js</h4>
               <small className='text-light'>Intermidiate</small>
               </div>
             </article>
@@ -48,7 +48,7 @@ const experience = () => {
               <BsPatchCheckFill className='experience__details-icons'/>
               <div>
               <h4>React</h4>
-              <small className='text-light'>Experienced</small>
+              <small className='text-light'>Intermidiate</small>
               </div>
             </article>
           </div>
@@ -62,7 +62,7 @@ const experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icons'/>
               <div>
-              <h4>Node Js</h4>
+              <h4>Node.Js</h4>
               <small className='text-light'>Experienced</small>
               </div>
             </article>
@@ -95,6 +95,15 @@ const experience = () => {
               <BsPatchCheckFill className='experience__details-icons'/>
               <div>
               <h4>Express Js</h4>
+              <small className='text-light'>Intermidiate</small>
+              </div>
+            </article>
+            
+            
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icons'/>
+              <div>
+              <h4>Nest.Js</h4>
               <small className='text-light'>Intermidiate</small>
               </div>
             </article>
