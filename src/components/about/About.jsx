@@ -40,7 +40,7 @@ const about = () => {
           </div>
 
           <p>
-            My name is Hillary Nyakundi, a MERN STACK website developer. I'm passinate about discovering and solving problems in the community through technology.
+            My name is Hillary Nyakundi, a Backend Software Engineer. I'm passinate about discovering and solving problems through technology.
           </p>
           
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
