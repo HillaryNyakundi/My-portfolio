@@ -9,7 +9,7 @@ const experience = () => {
       <h2>My Experience</h2>
 
       <div className="container experience__container">
-        <div className="experience__frontend">
+        {/* <div className="experience__frontend">
           <h3>Frontend Development</h3>
           <div className="experience__content">
             <article className='experience__details'>
@@ -52,7 +52,7 @@ const experience = () => {
               </div>
             </article>
           </div>
-        </div>
+        </div> */} 
 
         {/* END OF FRONTEND */}
 
@@ -78,7 +78,7 @@ const experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icons'/>
               <div>
-              <h4>Firebase</h4>
+              <h4>Javascript</h4>
               <small className='text-light'>Intermidiate</small>
               </div>
             </article>
@@ -86,7 +86,7 @@ const experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icons'/>
               <div>
-              <h4>React-Redux</h4>
+              <h4>Docker</h4>
               <small className='text-light'>Intermidiate</small>
               </div>
             </article>
@@ -103,7 +103,15 @@ const experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icons'/>
               <div>
-              <h4>Nest.Js</h4>
+              <h4>CI/CD pipeline</h4>
+              <small className='text-light'>Intermidiate</small>
+              </div>
+            </article>
+            
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icons'/>
+              <div>
+              <h4>AWS</h4>
               <small className='text-light'>Intermidiate</small>
               </div>
             </article>
