@@ -40,7 +40,7 @@ const about = () => {
           </div>
 
           <p>
-            My name is Hillary Nyakundi, a Backend Software Engineer. I'm passinate about discovering and solving problems through technology.
+            My name is Hillary Nyakundi, a Backend Software Engineer. I'm passinate about bringing value and benefit in people's lives through software creation.
           </p>
           
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

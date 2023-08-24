@@ -10,68 +10,80 @@ const services = () => {
       <div className="container services__container">
         <article className="service">
           <div className="service__head">
-            <h3>UI/UX Design</h3>
+            <h3>Servers</h3>
           </div>
 
           <ul className ='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Users problem solving.</p>
+              <p>HTTP / HTTPS.</p>
             </li>
             
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Interactive user interfaces.</p>
+              <p>HTTP status codes.</p>
             </li>
             
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Perfect communication skills.</p>
+              <p>Client service architecture.</p>
             </li>
             
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Simple but authentic designs.</p>
+              <p>MVC design pattern.</p>
             </li>
             
             <li>
               <BiCheck className='service__list-icon' />
-              <p>User research and usability testing.</p>
+              <p>Application programming interfaces.</p>
             </li>
           </ul>
         </article>
 
-        {/* END OF UI/UX */}
+        {/* END OF SERVERS */}
 
         
         <article className="service">
           <div className="service__head">
-            <h3>Web Development</h3>
+            <h3>Databases</h3>
           </div>
           <ul className ='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Strong creative ability.</p>
+              <p>Enterprise data warehouse management.</p>
             </li>
             
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Computer literacy.</p>
+              <p>Project management and Automation.</p>
             </li>
             
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Strong numeracy skills.</p>
+              <p>Data Modelling.</p>
             </li>
             
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Excellent problem-solving skills.</p>
+              <p>Backup and recovery.</p>
             </li>
             
             <li>
               <BiCheck className='service__list-icon' />
-              <p>A logical approach to work.</p>
+              <p>Security - CSRF & CORS & Cookies.</p>
+            </li>
+          </ul>
+        </article>
+        {/* END OF API's */}
+        <article className="service">
+          <div className="service__head">
+            <h3>Additional</h3>
+          </div>
+          <ul className ='service__list'>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Soft skills.</p>
             </li>
             
             <li>
@@ -81,43 +93,21 @@ const services = () => {
             
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Attention to deal.</p>
+              <p>Critical thinker and solution oriented.</p>
+            </li>
+
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Leadership skills</p>
+            </li>
+            
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Poetry Writer & chess player.</p>
             </li>
           </ul>
         </article>
-        {/* END OF WEB DEVELOPMENT */}
-        <article className="service">
-          <div className="service__head">
-            <h3>Content Creation</h3>
-          </div>
-          <ul className ='service__list'>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Online projects demo guru.</p>
-            </li>
-            
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Prolific tech meeting standups.</p>
-            </li>
-            
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Code coach in basics for beginners.</p>
-            </li>
-            
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Technical writer for code docs.</p>
-            </li>
-            
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Tech events and workshops resercher.</p>
-            </li>
-          </ul>
-        </article>
-        {/* END OF CONTENT CREATION */}
+        {/* END OF Additional */}
       </div>
     </section>
   )
