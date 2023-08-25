@@ -1,7 +1,7 @@
 import React from 'react'
 import './portfolio.css'
-import LAPI5 from '../../assets/Lapi5.webp'
-import LAPI4 from '../../assets/Lapi4.webp'
+import LAPI1 from '../../assets/Lapi1.webp'
+import LAPI6 from '../../assets/Lapi6.webp'
 import LAPI2 from '../../assets/Lapi2.webp'
 import LAPI3 from '../../assets/Lapi3.webp'
 import LAPI4 from '../../assets/Lapi4.webp'
@@ -15,7 +15,7 @@ const portfolio = () => {
       <div className="container portfolio__container">
         <article className='portfolio__item'>
           <div className="portfolio__item-image">
-            <img src={LAPI5} alt="" />
+            <img src={LAPI1} alt="" />
           </div>
             <h3>CRUD APP</h3>
             <div className="portfolio__item-cta">
@@ -27,7 +27,7 @@ const portfolio = () => {
         
         <article className='portfolio__item'>
           <div className="portfolio__item-image">
-            <img src={LAPI4} alt="" />
+            <img src={LAPI6} alt="" />
           </div>
             <h3>A landing page for an art institution in Kenya</h3>
             <div className="portfolio__item-cta">
