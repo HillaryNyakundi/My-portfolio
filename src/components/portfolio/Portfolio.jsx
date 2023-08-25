@@ -1,7 +1,7 @@
 import React from 'react'
 import './portfolio.css'
-import LAPI1 from '../../assets/art place.png'
-import ANNEX from '../../assets/Annex.png'
+import LAPI5 from '../../assets/Lapi5.webp'
+import LAPI4 from '../../assets/Lapi4.webp'
 import LAPI2 from '../../assets/Lapi2.webp'
 import LAPI3 from '../../assets/Lapi3.webp'
 import LAPI4 from '../../assets/Lapi4.webp'
@@ -15,22 +15,24 @@ const portfolio = () => {
       <div className="container portfolio__container">
         <article className='portfolio__item'>
           <div className="portfolio__item-image">
-            <img src={ANNEX} alt="" />
+            <img src={LAPI5} alt="" />
           </div>
-            <h3>Annex cafeteria marketing website</h3>
+            <h3>CRUD APP</h3>
             <div className="portfolio__item-cta">
             <a href="https://github.com/HillaryNyakundi/Annex-Cafe" className='btn' target='_blank'>Github</a>
+            <a href="https://github.com/HillaryNyakundi/Annex-Cafe" className='btn' target='_blank'>Blog</a>
             <a href="http://annex-cafe.epizy.com/" className='btn btn-primary' target='_blank'>Live Demo</a>
             </div>
         </article>
         
         <article className='portfolio__item'>
           <div className="portfolio__item-image">
-            <img src={LAPI1} alt="" />
+            <img src={LAPI4} alt="" />
           </div>
             <h3>A landing page for an art institution in Kenya</h3>
             <div className="portfolio__item-cta">
             <a href="https://github.com/HillaryNyakundi/Art-place" className='btn' target='_blank'>Github</a>
+            <a href="https://github.com/HillaryNyakundi/Art-place" className='btn' target='_blank'>Blog</a>
             <a href="https://art-place.netlify.app/" className='btn btn-primary' target='_blank'>Live Demo</a>
             </div>
         </article>
@@ -42,6 +44,7 @@ const portfolio = () => {
             <h3>This is a portfolio item title</h3>
             <div className="portfolio__item-cta">
             <a href="https://github.com" className='btn' target='_blank'>Github</a>
+            <a href="https://github.com" className='btn' target='_blank'>Blog</a>
             <a href="https://dribbble.com/Alien_pixels" className='btn btn-primary' target='_blank'>Live Demo</a>
             </div>
         </article>
@@ -53,6 +56,7 @@ const portfolio = () => {
             <h3>This is a portfolio item title</h3>
             <div className="portfolio__item-cta">
             <a href="https://github.com" className='btn' target='_blank'>Github</a>
+            <a href="https://github.com" className='btn' target='_blank'>Blog</a>
             <a href="https://dribbble.com/Alien_pixels" className='btn btn-primary' target='_blank'>Live Demo</a>
             </div>
         </article>
@@ -64,6 +68,7 @@ const portfolio = () => {
             <h3>This is a portfolio item title</h3>
             <div className="portfolio__item-cta">
             <a href="https://github.com" className='btn' target='_blank'>Github</a>
+            <a href="https://github.com" className='btn' target='_blank'>Blog</a>
             <a href="https://dribbble.com/Alien_pixels" className='btn btn-primary' target='_blank'>Live Demo</a>
             </div>
         </article>
@@ -75,6 +80,7 @@ const portfolio = () => {
             <h3>This is a portfolio item title</h3>
             <div className="portfolio__item-cta">
             <a href="https://github.com" className='btn' target='_blank'>Github</a>
+            <a href="https://github.com" className='btn' target='_blank'>Blog</a>
             <a href="https://dribbble.com/Alien_pixels" className='btn btn-primary' target='_blank'>Live Demo</a>
             </div>
         </article>
