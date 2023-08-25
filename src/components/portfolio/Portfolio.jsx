@@ -29,7 +29,7 @@ const portfolio = () => {
           <div className="portfolio__item-image">
             <img src={LAPI6} alt="" />
           </div>
-            <h3>A landing page for an art institution in Kenya</h3>
+            <h3>Rest API CRUD</h3>
             <div className="portfolio__item-cta">
             <a href="https://github.com/HillaryNyakundi/Art-place" className='btn' target='_blank'>Github</a>
             <a href="https://github.com/HillaryNyakundi/Art-place" className='btn' target='_blank'>Blog</a>

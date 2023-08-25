@@ -56,7 +56,7 @@ const services = () => {
             
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Project management and Automation.</p>
+              <p>Devops and Automation.</p>
             </li>
             
             <li>
