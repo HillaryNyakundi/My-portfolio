@@ -1,7 +1,7 @@
 import React from 'react'
 import './contact.css' 
 import {MdOutlineEmail} from 'react-icons/md'
-import {FaXTwitter} from 'react-icons/fa'
+import {FaXTwitter} from 'react-icons/fa6'
 import {BsWhatsapp} from 'react-icons/bs'
 import { useRef } from 'react';
 import emailjs from 'emailjs-com'
