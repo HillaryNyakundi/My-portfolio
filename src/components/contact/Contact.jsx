@@ -1,7 +1,7 @@
 import React from 'react'
 import './contact.css' 
 import {MdOutlineEmail} from 'react-icons/md'
-import {RiTwitterXFill} from 'react-icons/ri'
+import {RiTwitterXLine} from 'react-icons/ri'
 import {BsWhatsapp} from 'react-icons/bs'
 import { useRef } from 'react';
 import emailjs from 'emailjs-com'
@@ -23,7 +23,7 @@ const Contact = () => {
       <div className="container contact__container">
         <div className="contact__options">
           <article className=" contact__option">
-            <RiTwitterXFill className='contact__option-icon'/>
+            <RiTwitterXLine className='contact__option-icon'/>
             <h4>X.corp</h4>
             {/* <h5>@bcryptidd</h5> */}
             <a href="https://twitter.com/bcryptidd" target="_blank">Send a message</a>
