@@ -46,36 +46,36 @@ const services = () => {
         
         <article className="service">
           <div className="service__head">
-            <h3>Databases</h3>
+            <h3>Frontend</h3>
           </div>
           <ul className ='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Enterprise data warehouse management.</p>
+              <p>Declarative UI.</p>
             </li>
             
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Devops and Automation.</p>
+              <p>Component-based architecture to reuse and scale complex UI.</p>
             </li>
             
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Data Modelling.</p>
+              <p>Improved performance using the virtual DOM.</p>
             </li>
             
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Backup and recovery.</p>
+              <p>Reactive updates to the UI.</p>
             </li>
             
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Security - CSRF & CORS & Cookies.</p>
+              <p>Visualization of the UI components using JSX.</p>
             </li>
           </ul>
         </article>
-        {/* END OF API's */}
+        {/* END OF Frontend */}
         <article className="service">
           <div className="service__head">
             <h3>Additional</h3>

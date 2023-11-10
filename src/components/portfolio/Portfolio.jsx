@@ -17,11 +17,11 @@ const portfolio = () => {
           <div className="portfolio__item-image">
             <img src={LAPI1} alt="" />
           </div>
-            <h3>Student API actions, CRUD APP</h3>
+            <h3>Calculator app with React</h3>
             <div className="portfolio__item-cta">
-            <a href="https://github.com/HillaryNyakundi/students-API" className='btn' target='_blank'>Github</a>
-            <a href="https://github.com/HillaryNyakundi/students-API" className='btn' target='_blank'>Blog</a>
-            <a href="http://localhost:3000/api-docs/" className='btn btn-primary' target='_blank'>Demo</a>
+            <a href="https://github.com/HillaryNyakundi/calc" className='btn' target='_blank'>Github</a>
+            <a href="" className='btn' target='_blank'>Blog</a>
+            <a href="https://calculator-psi-sepia.vercel.app/" className='btn btn-primary' target='_blank'>Demo</a>
             </div>
         </article>
         
@@ -29,11 +29,11 @@ const portfolio = () => {
           <div className="portfolio__item-image">
             <img src={LAPI6} alt="" />
           </div>
-            <h3>Calculator app with React</h3>
+            <h3>This is a portfolio item title</h3>
             <div className="portfolio__item-cta">
-            <a href="https://github.com/HillaryNyakundi/calc" className='btn' target='_blank'>Github</a>
+            <a href="" className='btn' target='_blank'>Github</a>
             <a href="" className='btn' target='_blank'>Blog</a>
-            <a href="https://calculator-psi-sepia.vercel.app/" className='btn btn-primary' target='_blank'>Demo</a>
+            <a href="" className='btn btn-primary' target='_blank'>Demo</a>
             </div>
         </article>
         
