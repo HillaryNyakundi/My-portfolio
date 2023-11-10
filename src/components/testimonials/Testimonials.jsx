@@ -31,9 +31,9 @@ const testimonials = () => {
           <div className="client__avatar">
             <img src={AVIR1} alt="Avatar one" />
           </div>
-          <h5 className = 'client__Name'>Suhade Tech & investiments</h5>
+          <h5 className = 'client__Name'>Bernadette</h5>
           <small className="small client__review">
-            Kudos! for the awsome frontend, interactive and satisfying for the user experince.
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veniam, hic?
           </small>
         </SwiperSlide>
         
@@ -41,9 +41,9 @@ const testimonials = () => {
           <div className="client__avatar">
             <img src={AVIR2} alt="Avatar one" />
           </div>
-          <h5 className = 'client__Name'>Dennis Maranga</h5>
+          <h5 className = 'client__Name'>Kevin Hart</h5>
           <small className="small client__review">
-            Great job done on the backend, wow, i'm loving Node.
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur, commodi!
           </small>
         </SwiperSlide>
         
@@ -53,7 +53,7 @@ const testimonials = () => {
           </div>
           <h5 className = 'client__Name'>Koech Kipkirui</h5>
           <small className="small client__review">
-            React caught me by surprise but wahlaah, Loved my landing page which was delivered today.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, optio!
           </small>
         </SwiperSlide>
         
@@ -63,7 +63,7 @@ const testimonials = () => {
           </div>
           <h5 className = 'client__Name'>Elisha Kibet</h5>
           <small className="small client__review">
-            A great and supportive team player, viable to new learning opportunities.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, voluptatum.
           </small>
         </SwiperSlide>
       </Swiper>
