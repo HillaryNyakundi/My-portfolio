@@ -29,13 +29,13 @@ const about = () => {
             <article className='about__card'>
               <FiUsers className='about__icon'/>
               <h5>Clients</h5>
-              <small>3+ Nairobi</small>
+              <small>1+ Nairobi</small>
             </article>
             
             <article className='about__card'>
               <BsFolderSymlinkFill className='about__icon'/>
               <h5>Projects</h5>
-              <small>6+ Completed</small>
+              <small>1+ Completed</small>
             </article>
           </div>
 
