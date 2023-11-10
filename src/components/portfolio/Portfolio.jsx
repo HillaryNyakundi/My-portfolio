@@ -29,9 +29,9 @@ const portfolio = () => {
           <div className="portfolio__item-image">
             <img src={LAPI6} alt="" />
           </div>
-            <h3>This is a portfolio item title</h3>
+            <h3>Student API CRUD App</h3>
             <div className="portfolio__item-cta">
-            <a href="" className='btn' target='_blank'>Github</a>
+            <a href="https://github.com/HillaryNyakundi/students-API" className='btn' target='_blank'>Github</a>
             <a href="" className='btn' target='_blank'>Blog</a>
             <a href="" className='btn btn-primary' target='_blank'>Demo</a>
             </div>
