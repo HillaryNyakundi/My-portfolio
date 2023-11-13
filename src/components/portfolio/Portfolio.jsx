@@ -33,7 +33,7 @@ const portfolio = () => {
             <div className="portfolio__item-cta">
             <a href="https://github.com/HillaryNyakundi/students-API" className='btn' target='_blank'>Github</a>
             <a href="" className='btn' target='_blank'>Blog</a>
-            <a href="" className='btn btn-primary' target='_blank'>Demo</a>
+            <a href="localhost:3000/api-docs/" className='btn btn-primary' target='_blank'>Demo</a>
             </div>
         </article>
         
