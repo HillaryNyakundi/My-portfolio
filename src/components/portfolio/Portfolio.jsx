@@ -77,7 +77,7 @@ const portfolio = () => {
           <div className="portfolio__item-image">
             <img src={LAPI5} alt="" />
           </div>
-            <h3>This is a portfolio item title</h3>
+            <h3>A landing page for a SACCO business</h3>
             <div className="portfolio__item-cta">
             <a href="https://github.com/HillaryNyakundi/GuarantorsGuard" className='btn' target='_blank'>Github</a>
             <a href="https://github.com" className='btn' target='_blank'>Blog</a>
