@@ -41,11 +41,11 @@ const portfolio = () => {
           <div className="portfolio__item-image">
             <img src={LAPI2} alt="" />
           </div>
-            <h3>This is a portfolio item title</h3>
+            <h3>Apparel store with Redux</h3>
             <div className="portfolio__item-cta">
-            <a href="https://github.com" className='btn' target='_blank'>Github</a>
+            <a href="https://github.com/HillaryNyakundi/redux-shop" className='btn' target='_blank'>Github</a>
             <a href="https://github.com" className='btn' target='_blank'>Blog</a>
-            <a href="https://dribbble.com/Alien_pixels" className='btn btn-primary' target='_blank'>Demo</a>
+            <a href="https://redux-shop-one-khaki.vercel.app/" className='btn btn-primary' target='_blank'>Demo</a>
             </div>
         </article>
         
@@ -53,11 +53,11 @@ const portfolio = () => {
           <div className="portfolio__item-image">
             <img src={LAPI3} alt="" />
           </div>
-            <h3>This is a portfolio item title</h3>
+            <h3>A dynamic inventory Application</h3>
             <div className="portfolio__item-cta">
-            <a href="https://github.com" className='btn' target='_blank'>Github</a>
+            <a href="https://github.com/HillaryNyakundi/my-inventory" className='btn' target='_blank'>Github</a>
             <a href="https://github.com" className='btn' target='_blank'>Blog</a>
-            <a href="https://dribbble.com/Alien_pixels" className='btn btn-primary' target='_blank'>Demo</a>
+            <a href="https://my-inventory-six.vercel.app/" className='btn btn-primary' target='_blank'>Demo</a>
             </div>
         </article>
         
@@ -65,11 +65,11 @@ const portfolio = () => {
           <div className="portfolio__item-image">
             <img src={LAPI4} alt="" />
           </div>
-            <h3>This is a portfolio item title</h3>
+            <h3>A demonstration of higher order functions</h3>
             <div className="portfolio__item-cta">
-            <a href="https://github.com" className='btn' target='_blank'>Github</a>
+            <a href="https://github.com/HillaryNyakundi/JavaScript-refresher" className='btn' target='_blank'>Github</a>
             <a href="https://github.com" className='btn' target='_blank'>Blog</a>
-            <a href="https://dribbble.com/Alien_pixels" className='btn btn-primary' target='_blank'>Demo</a>
+            <a href="https://java-script-refresher.vercel.app/" className='btn btn-primary' target='_blank'>Demo</a>
             </div>
         </article>
         
@@ -79,9 +79,9 @@ const portfolio = () => {
           </div>
             <h3>This is a portfolio item title</h3>
             <div className="portfolio__item-cta">
-            <a href="https://github.com" className='btn' target='_blank'>Github</a>
+            <a href="https://github.com/HillaryNyakundi/GuarantorsGuard" className='btn' target='_blank'>Github</a>
             <a href="https://github.com" className='btn' target='_blank'>Blog</a>
-            <a href="https://dribbble.com/Alien_pixels" className='btn btn-primary' target='_blank'>Demo</a>
+            <a href="https://guarantorguard.vercel.app/" className='btn btn-primary' target='_blank'>Demo</a>
             </div>
         </article>
       </div>
