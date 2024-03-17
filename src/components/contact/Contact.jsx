@@ -28,9 +28,9 @@ const Contact = () => {
         <div className='contact__options'>
           <article className=' contact__option'>
             <FaTwitter className='contact__option-icon' />
-            <h4>X.corp</h4>
+            <h4>Dm</h4>
             {/* <h5>@bcryptidd</h5> */}
-            <a href='https://twitter.com/nyakundi66' target='_blank'>
+            <a href='https://twitter.com/bcryptidd' target='_blank'>
               Send a message
             </a>
           </article>
