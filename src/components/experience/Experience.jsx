@@ -32,7 +32,7 @@ const experience = () => {
               <BsPatchCheckFill className='experience__details-icons' />
               <div>
                 <h4>Redux Toolkit</h4>
-                <small className='text-light'>Intermidiate</small>
+                <small className='text-light'>Beginner</small>
               </div>
             </article>
 
