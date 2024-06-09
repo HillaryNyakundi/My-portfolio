@@ -39,7 +39,7 @@ const experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icons" />
               <div>
-                <h4>JavaScript</h4>
+                <h4>TypeScript</h4>
                 <small className="text-light">Beginner</small>
               </div>
             </article>
