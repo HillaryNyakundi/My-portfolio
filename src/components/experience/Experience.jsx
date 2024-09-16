@@ -15,8 +15,8 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icons" />
               <div>
-                <h4>React</h4>
-                <small className="text-light">Beginner</small>
+                <h4>React.js</h4>
+                <small className="text-light">Experienced</small>
               </div>
             </article>
 
@@ -32,7 +32,7 @@ const Experience = () => {
               <BsPatchCheckFill className="experience__details-icons" />
               <div>
                 <h4>Redux Toolkit</h4>
-                <small className="text-light">Beginner</small>
+                <small className="text-light">Experienced</small>
               </div>
             </article>
 
@@ -40,7 +40,7 @@ const Experience = () => {
               <BsPatchCheckFill className="experience__details-icons" />
               <div>
                 <h4>TypeScript</h4>
-                <small className="text-light">Beginner</small>
+                <small className="text-light">Experienced</small>
               </div>
             </article>
 
@@ -48,7 +48,7 @@ const Experience = () => {
               <BsPatchCheckFill className="experience__details-icons" />
               <div>
                 <h4>NextJS</h4>
-                <small className="text-light">Beginner</small>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
 
@@ -56,7 +56,7 @@ const Experience = () => {
               <BsPatchCheckFill className="experience__details-icons" />
               <div>
                 <h4>TailwindCSS</h4>
-                <small className="text-light">Beginner</small>
+                <small className="text-light">Experienced</small>
               </div>
             </article>
           </div>
@@ -94,7 +94,7 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icons" />
               <div>
-                <h4>Next Js</h4>
+                <h4>Laravel</h4>
                 <small className="text-light">Intermediate</small>
               </div>
             </article>
@@ -110,7 +110,7 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icons" />
               <div>
-                <h4>Python</h4>
+                <h4>PHP</h4>
                 <small className="text-light">Beginner</small>
               </div>
             </article>

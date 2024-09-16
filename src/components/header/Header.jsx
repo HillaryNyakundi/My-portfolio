@@ -1,8 +1,8 @@
-import React from 'react'
-import './header.css'
-import CTA from './CTA'
-import MEE from '../../assets/mee.jpg'
-import HeaderSocials from './HeaderSocials'
+import React from "react";
+import "./header.css";
+import CTA from "./CTA";
+import MEE from "../../assets/mee.jpg";
+import HeaderSocials from "./HeaderSocials";
 
 const header = () => {
   return (
@@ -11,19 +11,21 @@ const header = () => {
         <div className="container header__container">
           <h5>Hello, I'm</h5>
           <h1>Hillary Nyakundi</h1>
-          <h5 className="text-light">Software Engineer</h5>
+          <h5 className="text-light">Software Developer</h5>
           <CTA />
-          <HeaderSocials/>
+          <HeaderSocials />
 
           <div className="me">
             <img src={MEE} alt="mee" />
           </div>
 
-          <a href="#contact" className="scroll__down">Scroll Down</a>
+          <a href="#contact" className="scroll__down">
+            Scroll Down
+          </a>
         </div>
       </header>
     </div>
-  )
-}
+  );
+};
 
-export default header
+export default header;
