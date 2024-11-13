@@ -17,7 +17,7 @@ const portfolio = () => {
           <div className="portfolio__item-image">
             <img src={ECOMERCE} alt="" />
           </div>
-          <h3>Apparel store with Redux Toolkit for state management</h3>
+          <h3>Apparel store with Next.js and TypeScript</h3>
           <div className="portfolio__item-cta">
             <a
               href="https://github.com/HillaryNyakundi/redux-shop"
@@ -43,7 +43,9 @@ const portfolio = () => {
           <div className="portfolio__item-image">
             <img src={INVENT} alt="" />
           </div>
-          <h3>A dynamic inventory Application with CRUD functionalities</h3>
+          <h3>
+            A dynamic inventory Application with CRUD functionalities(React.js)
+          </h3>
           <div className="portfolio__item-cta">
             <a
               href="https://github.com/HillaryNyakundi/my-inventory"
@@ -99,7 +101,7 @@ const portfolio = () => {
           <div className="portfolio__item-image">
             <img src={LAPI6} alt="" />
           </div>
-          <h3>Barcardi Breezer Cocktails</h3>
+          <h3>Cocktails UI with Tailwind and Next.js</h3>
           <div className="portfolio__item-cta">
             <a
               href="https://github.com/HillaryNyakundi/bacardi"
@@ -151,7 +153,7 @@ const portfolio = () => {
           <div className="portfolio__item-image">
             <img src={LANDING} alt="" />
           </div>
-          <h3>A landing page for a SACCO business</h3>
+          <h3>A landing page for a SACCO business with React(SPA)</h3>
           <div className="portfolio__item-cta">
             <a
               href="https://github.com/HillaryNyakundi/GuarantorsGuard"
