@@ -2,7 +2,7 @@ import React from "react";
 import "./portfolio.css";
 import ECOMERCE from "../../assets/Ecomerce.png";
 import LAPI6 from "../../assets/Lapi6.png";
-import PREDICT from "../../assets/Predict.png";
+import RWANDA from "../../assets/Rwanda.png";
 import INVENT from "../../assets/Invent.png";
 import SORT from "../../assets/Sort.png";
 import LANDING from "../../assets/Landing.png";
@@ -44,7 +44,7 @@ const portfolio = () => {
             <img src={INVENT} alt="" />
           </div>
           <h3>
-            A dynamic inventory Application with CRUD functionalities(React.js)
+            A dynamic inventory Application with CRUD functionalities (React.js)
           </h3>
           <div className="portfolio__item-cta">
             <a
@@ -70,15 +70,15 @@ const portfolio = () => {
 
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={PREDICT} alt="Predict" />
+            <img src={RWANDA} alt="Rwanda" />
           </div>
           <h3>
-            Final year project, software developers' salary prediction app using
-            ML and Python
+            About A landing page website for Rwanda air travel operations built
+            with React, Typescript, Tailwindcss and Vite
           </h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://github.com/HillaryNyakundi/salary_dev"
+              href="https://github.com/HillaryNyakundi/rwandair-holidays"
               className="btn"
               target="_blank"
             >
@@ -88,7 +88,7 @@ const portfolio = () => {
               Blog
             </a>
             <a
-              href="https://developer-salary.streamlit.app/"
+              href="https://rwandair-holidays.vercel.app/"
               className="btn btn-primary"
               target="_blank"
             >

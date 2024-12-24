@@ -9,7 +9,7 @@ const about = () => {
   return (
     <section id="About">
       <h5>Get To Know</h5>
-      <h2>About Nyakundi</h2>
+      <h2>About Hillary</h2>
 
       <div className="container about__container">
         <div className="about__me">
@@ -40,10 +40,10 @@ const about = () => {
           </div>
 
           <p>
-            My name is Hillary Nyakundi, a Web Application Developer. I'm
-            passinate about bringing value and benefit in people's lives through
-            software creation and by solving real life problems using
-            technology.
+            My name is Hillary Nyakundi, a Front-End Engineer. I am passinate
+            about bringing value and benefit in people's lives through software
+            creation and by providing fresh ideas into the product development
+            lifecycle.
           </p>
 
           <a href="#contact" className="btn btn-primary">
