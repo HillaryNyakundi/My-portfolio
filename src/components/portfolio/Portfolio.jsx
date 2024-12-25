@@ -1,10 +1,10 @@
 import React from "react";
 import "./portfolio.css";
-import ECOMERCE from "../../assets/Ecomerce.png";
+import KAREGIVV from "../../assets/karegivv.png";
 import LAPI6 from "../../assets/Lapi6.png";
 import RWANDA from "../../assets/Rwanda.png";
 import INVENT from "../../assets/Invent.png";
-import SORT from "../../assets/Sort.png";
+import ECOMERCE from "../../assets/Ecomerce.png";
 import LANDING from "../../assets/Landing.png";
 const portfolio = () => {
   return (
@@ -15,12 +15,12 @@ const portfolio = () => {
       <div className="container portfolio__container">
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={ECOMERCE} alt="" />
+            <img src={KAREGIVV} alt="" />
           </div>
-          <h3>Apparel store with Next.js and TypeScript</h3>
+          <h3>A platform offering caregiver services to home patients</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://github.com/HillaryNyakundi/redux-shop"
+              href="https://github.com/HillaryNyakundi/Front-end/tree/main"
               className="btn"
               target="_blank"
             >
@@ -30,7 +30,7 @@ const portfolio = () => {
               Blog
             </a>
             <a
-              href="https://redux-shop-one-khaki.vercel.app/"
+              href="https://www.karegivv.com/"
               className="btn btn-primary"
               target="_blank"
             >
@@ -125,12 +125,15 @@ const portfolio = () => {
 
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={SORT} alt="" />
+            <img src={ECOMERCE} alt="" />
           </div>
-          <h3>A demonstration of higher order functions in JavaScript</h3>
+          <h3>
+            An online apparel store for with [Add to cart] capabilities
+            utilizing React.js and Typescript
+          </h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://github.com/HillaryNyakundi/JavaScript-refresher"
+              href="https://github.com/HillaryNyakundi/redux-shop"
               className="btn"
               target="_blank"
             >
@@ -140,7 +143,7 @@ const portfolio = () => {
               Blog
             </a>
             <a
-              href="https://java-script-refresher.vercel.app/"
+              href="https://redux-shop-one-khaki.vercel.app/"
               className="btn btn-primary"
               target="_blank"
             >
