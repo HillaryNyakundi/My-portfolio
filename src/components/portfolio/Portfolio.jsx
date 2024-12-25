@@ -17,7 +17,10 @@ const portfolio = () => {
           <div className="portfolio__item-image">
             <img src={KAREGIVV} alt="" />
           </div>
-          <h3>A platform offering caregiver services to home patients</h3>
+          <h3>
+            A platform offering caregiver services to home patients, designed
+            with Next.js, Typescript, Zod and Tailwind css
+          </h3>
           <div className="portfolio__item-cta">
             <a
               href="https://github.com/HillaryNyakundi/Front-end/tree/main"
@@ -44,7 +47,8 @@ const portfolio = () => {
             <img src={INVENT} alt="" />
           </div>
           <h3>
-            A dynamic inventory Application with CRUD functionalities (React.js)
+            A dynamic inventory Application with CRUD functionalities (React.js,
+            Material UI)
           </h3>
           <div className="portfolio__item-cta">
             <a
@@ -101,7 +105,7 @@ const portfolio = () => {
           <div className="portfolio__item-image">
             <img src={LAPI6} alt="" />
           </div>
-          <h3>Cocktails UI with Tailwind and Next.js</h3>
+          <h3>Cocktails store UI with Tailwind css, Next.js and Shadcn UI</h3>
           <div className="portfolio__item-cta">
             <a
               href="https://github.com/HillaryNyakundi/bacardi"
@@ -128,8 +132,8 @@ const portfolio = () => {
             <img src={ECOMERCE} alt="" />
           </div>
           <h3>
-            An online apparel store for with [Add to cart] capabilities
-            utilizing React.js and Typescript
+            An online apparel store with [Add to cart] capabilities utilizing
+            React.js and Typescript.
           </h3>
           <div className="portfolio__item-cta">
             <a
@@ -156,7 +160,10 @@ const portfolio = () => {
           <div className="portfolio__item-image">
             <img src={LANDING} alt="" />
           </div>
-          <h3>A landing page for a SACCO business with React(SPA)</h3>
+          <h3>
+            A landing page for a SACCO business with React.js and Tailwind
+            css(SPA)
+          </h3>
           <div className="portfolio__item-cta">
             <a
               href="https://github.com/HillaryNyakundi/GuarantorsGuard"
