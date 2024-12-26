@@ -40,9 +40,9 @@ const about = () => {
           </div>
 
           <p>
-            My name is Hillary Nyakundi, a Front-End Engineer. I am passinate
-            about bringing value and benefit in people's lives through software
-            creation and by providing fresh ideas into the product development
+            My name is Hillary Nyakundi, a Front-End Engineer. I am passionate
+            about bringing value and benefit to people's lives through software
+            design and by providing fresh ideas into the product development
             lifecycle.
           </p>
 
