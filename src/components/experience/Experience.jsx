@@ -1,6 +1,6 @@
-import React from "react";
-import "./experience.css";
-import { BsPatchCheckFill } from "react-icons/bs";
+import React from 'react';
+import './experience.css';
+import { BsPatchCheckFill } from 'react-icons/bs';
 
 const Experience = () => {
   return (
@@ -16,14 +16,14 @@ const Experience = () => {
               <BsPatchCheckFill className="experience__details-icons" />
               <div>
                 <h4>React.js</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
 
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icons" />
               <div>
-                <h4>Tanstack Query/ RTK</h4>
+                <h4>Redux Toolkit</h4>
                 <small className="text-light">Intermediate</small>
               </div>
             </article>
@@ -32,7 +32,7 @@ const Experience = () => {
               <BsPatchCheckFill className="experience__details-icons" />
               <div>
                 <h4>Zod/ Shadcn UI</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
 
@@ -40,7 +40,7 @@ const Experience = () => {
               <BsPatchCheckFill className="experience__details-icons" />
               <div>
                 <h4>TypeScript</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
 
@@ -94,8 +94,8 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icons" />
               <div>
-                <h4>Java</h4>
-                <small className="text-light">Intermediate</small>
+                <h4>Django</h4>
+                <small className="text-light">Beginner</small>
               </div>
             </article>
 

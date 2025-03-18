@@ -1,9 +1,9 @@
-import React from "react";
-import "./about.css";
-import MEEP from "../../assets/meep.jpg";
-import { FaAward } from "react-icons/fa";
-import { FiUsers } from "react-icons/fi";
-import { BsFolderSymlinkFill } from "react-icons/bs";
+import React from 'react';
+import './about.css';
+import MEEP from '../../assets/meep.jpg';
+import { FaAward } from 'react-icons/fa';
+import { FiUsers } from 'react-icons/fi';
+import { BsFolderSymlinkFill } from 'react-icons/bs';
 
 const about = () => {
   return (
@@ -23,7 +23,7 @@ const about = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>2 Years working</small>
+              <small>1.2 Years working</small>
             </article>
 
             <article className="about__card">
@@ -40,10 +40,9 @@ const about = () => {
           </div>
 
           <p>
-            My name is Hillary Nyakundi, a Front-End Engineer. I am passionate
-            about bringing value and benefit to people's lives through software
-            design and by providing fresh ideas into the product development
-            lifecycle.
+            My name is Hillary Nyakundi, a Front-End Engineer. I am passionate about
+            bringing value and benefit to people's lives through software design and by
+            providing fresh ideas into the product development lifecycle.
           </p>
 
           <a href="#contact" className="btn btn-primary">
